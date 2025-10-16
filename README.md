@@ -3,5 +3,7 @@
 
 类似成本、完成时间等指标以用户需求的形式提出
 
+最终指标以拼接的trace为标准
+
 策略分层：选择策略，决定是否打包
 <img width="3571" height="3092" alt="调度3" src="https://github.com/user-attachments/assets/bd220a88-a5ce-48d6-b55e-046685493b53" />
