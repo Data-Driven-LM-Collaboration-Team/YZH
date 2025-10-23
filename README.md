@@ -7,3 +7,5 @@
 
 策略分层：选择策略，决定是否打包
 <img width="3571" height="3092" alt="调度3" src="https://github.com/user-attachments/assets/bd220a88-a5ce-48d6-b55e-046685493b53" />
+
+<img width="3571" height="4562" alt="调度4" src="https://github.com/user-attachments/assets/64cbe7f3-5294-470f-a7f6-ce2f6de47165" />
