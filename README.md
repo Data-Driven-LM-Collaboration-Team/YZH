@@ -27,6 +27,11 @@
      批处理任务测试  
      流式任务测试  
      消融实验  
+
+<img width="960" height="540" alt="幻灯片1" src="https://github.com/user-attachments/assets/0ba5b27c-adb2-434d-ac38-a0e7119a6926" />
+<img width="960" height="540" alt="幻灯片2" src="https://github.com/user-attachments/assets/330719f5-971e-4808-80bb-33da0052c6f3" />
+<img width="960" height="540" alt="幻灯片3" src="https://github.com/user-attachments/assets/ccd66931-fda8-48bd-a75e-d019df93db08" />
+
  
      
 
