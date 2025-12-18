@@ -1,3 +1,5 @@
+****<img width="1503" height="871" alt="image" src="https://github.com/user-attachments/assets/3b5a1abe-01ee-4e86-89a7-9ad2af2f5693" />
+
 效率
 
 [Experiment ID:  0] Configuration: cluster_spec=v100:36|p100:36|k80:36, policy=LLM, seed=0, num_total_jobs=100
