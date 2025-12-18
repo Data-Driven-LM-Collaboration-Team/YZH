@@ -1,3 +1,25 @@
+效率
+[Experiment ID:  0] Configuration: cluster_spec=v100:36|p100:36|k80:36, policy=LLM, seed=0, num_total_jobs=100
+[Experiment ID:  0] Results: average JCT=66309.602864, utilization=0.156150, makespan=616391.686433, total_cost=$1822.77, SLO_violations=2
+
+[Experiment ID: 0] Configuration: cluster_spec=v100:36|p100:36|k80:36, policy=Autofolio, seed=0, num_total_jobs=100
+[Experiment ID: 0] Results: average JCT=59325.259068, utilization=0.108994, makespan=503922.817010, total_cost=$1347.40, SLO_violations=5
+
+SLO
+[Experiment ID:  0] Configuration: cluster_spec=v100:36|p100:36|k80:36, policy=LLM, seed=0, num_total_jobs=100
+[Experiment ID:  0] Results: average JCT=75828.056119, utilization=0.155046, makespan=616162.755717, total_cost=$1819.10, SLO_violations=32
+
+[Experiment ID: 0] Configuration: cluster_spec=v100:36|p100:36|k80:36, policy=Autofolio, seed=0, num_total_jobs=100
+[Experiment ID: 0] Results: average JCT=59325.259068, utilization=0.108994, makespan=503922.817010, total_cost=$1347.40, SLO_violations=36
+
+成本 
+[Experiment ID: 0] onfiguration: cluster_spec=v100:36|p100:36|k80:36, policy=LLM, seed=0, num_total_jobs=100
+[Experiment ID: 0] esults: average JCT=71630.767037, utilization=0.098742, makespan=671477.416531, total_cost=$948.50, SLO_violations=49
+
+[Experiment ID: 0] Configuration: cluster_spec=v100:36|p100:36|k80:36, policy=Autofolio, seed=0, num_total_jobs=100
+[Experiment ID: 0] Results: average JCT=59325.259068, utilization=0.108994, makespan=503922.817010, total_cost=$1347.40, SLO_violations=36
+
+
 <img width="3272" height="2163" alt="调度" src="https://github.com/user-attachments/assets/4b44c94b-770a-4ec4-81d7-927348a10b97" />
 从五个层面对策略和集群状态进行特征总结
 
