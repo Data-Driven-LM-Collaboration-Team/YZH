@@ -1,3 +1,7 @@
+<img width="1181" height="548" alt="image" src="https://github.com/user-attachments/assets/05341557-55ee-4b95-892b-d63cfdff64cd" />
+<img width="1162" height="264" alt="image" src="https://github.com/user-attachments/assets/39e1e874-56f0-40d4-b39b-01cb36568741" />
+
+
 1、主表：逐类别 AUC 模块没有破坏初始检测能力
 
 2、Object-level Attribution
