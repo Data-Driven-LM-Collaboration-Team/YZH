@@ -1,3 +1,7 @@
+找不到对象、连不上对象、判断不依赖对象。
+模型是否看见并选中正确对象；
+模型是否跨帧保持该对象身份；
+最终判断是否真正建立在该对象证据上。
 <img width="1945" height="2032" alt="image" src="https://github.com/user-attachments/assets/8902cc46-5cbf-4113-845a-e31781131794" />
 <img width="2099" height="713" alt="image" src="https://github.com/user-attachments/assets/7fc68049-4e38-4e3a-aab8-1a4624faf3af" />
 
